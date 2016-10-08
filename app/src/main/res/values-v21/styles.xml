@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActivityTransition">
+        <item name="android:windowEnterTransition">@transition/tab_bar_activity_fade_in</item>
+        <item name="android:windowExitTransition">@transition/tab_bar_activity_fade_out</item>
+        <item name="android:windowReenterTransition">@transition/tab_bar_activity_fade_in</item>
+        <item name="android:windowReturnTransition">@transition/tab_bar_activity_fade_out</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+<tabs>
+    <tab
+        id="@+id/tab_trips"
+        icon="@drawable/ic_rocket"
+        title="Trips" />
+    <tab
+        id="@+id/tab_expenses"
+        icon="@drawable/ic_grid"
+        title="Expenses" />
+    <tab
+        id="@+id/tab_categories"
+        icon="@drawable/ic_tag_multiple"
+        title="Categories" />
+</tabs>
